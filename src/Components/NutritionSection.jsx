@@ -3,7 +3,7 @@ import { useEffect, useState } from "react";
 import { useGSAP } from "@gsap/react";
 import { SplitText } from "gsap/all";
 import gsap from "gsap";
-import { nutrientLists } from "../constants/index";
+import { nutrientLists } from "../constants/index.js";
 
 const NutritionSection = () => {
   const isMobile = useMediaQuery({
