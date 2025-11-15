@@ -1,9 +1,9 @@
 import { useMediaQuery } from "react-responsive";
-import { nutrientLists } from "../constants/index.JS";
 import { useEffect, useState } from "react";
 import { useGSAP } from "@gsap/react";
 import { SplitText } from "gsap/all";
 import gsap from "gsap";
+import { nutrientLists } from "../constants/index";
 
 const NutritionSection = () => {
   const isMobile = useMediaQuery({
