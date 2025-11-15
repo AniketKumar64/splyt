@@ -1,16 +1,43 @@
-# React + Vite
+# Splyt – Modern Animation Showcase
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+- **Splyt** is a premium, modern animation showcase featuring smooth GSAP-powered motion and a refined black-and-white aesthetic.  
+- Built to highlight high-end web interactions, it includes fluid transitions, polished micro-animations, and performance-focused visual effects.  
+- Perfect for demonstrating advanced animation techniques, UI motion design, and elegant, minimal web experiences.
+# Splyt – Modern Animation Showcase
 
-Currently, two official plugins are available:
+## Description
+- **Splyt** is a premium, modern animation showcase featuring smooth GSAP-powered motion and a refined black-and-white aesthetic.  
+- Built in **React.js**, it delivers fluid transitions, polished micro-animations, and performance-focused visual effects.  
+- Designed to highlight advanced UI motion design, interactive elements, and elegant, minimal web experiences.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- Modern React.js architecture  
+- GSAP-powered animations and transitions  
+- Sleek, minimal black & white UI  
+- Responsive and lightweight layout  
+- Smooth scroll interactions  
+- Particle effects & micro-animations  
+- Clean and modular component structure  
 
-## React Compiler
+## Demo
+*(Add your live link here)*  
+**Live Preview:** https://your-link-here.com  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Tech Stack
+- **React.js**  
+- **JavaScript (ES6+)**  
+- **GSAP (GreenSock Animation Platform)**  
+- **CSS3 / SCSS**  
+- **HTML5**
 
-## Expanding the ESLint configuration
+## Installation
+```bash
+# Clone the repository
+git clone https://github.com/AniketKumar64/splyt.git
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# Navigate into the project folder
+cd splyt
+
+# Install dependencies
+npm install
