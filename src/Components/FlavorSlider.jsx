@@ -1,5 +1,4 @@
 import  { useRef } from 'react'
-import { flavorlists } from '../constants/index'
 import { useGSAP } from '@gsap/react'
 import gsap from 'gsap'
 import { useMediaQuery } from 'react-responsive'
@@ -10,6 +9,39 @@ const FlavorSlider = () => {
     const isTablet= useMediaQuery({
         query:'(max-width:1024px)',
     });
+const flavorlists = [
+  {
+    name: "Chocolate Milk",
+    color: "brown",
+    rotation: "md:rotate-[-8deg] rotate-0",
+  },
+  {
+    name: "Stawberry Milk",
+    color: "red",
+    rotation: "md:rotate-[8deg] rotate-0",
+  },
+  {
+    name: "Cookies & Cream",
+    color: "blue",
+    rotation: "md:rotate-[-8deg] rotate-0",
+  },
+  {
+    name: "Peanut Butter Chocolate",
+    color: "orange",
+    rotation: "md:rotate-[8deg] rotate-0",
+  },
+  {
+    name: "Vanilla Milkshake",
+    color: "white",
+    rotation: "md:rotate-[-8deg] rotate-0",
+  },
+  {
+    name: "Max Chocolate Milk",
+    color: "black",
+    rotation: "md:rotate-[8deg] rotate-0",
+  },
+];
+
 
 
 
