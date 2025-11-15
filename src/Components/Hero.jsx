@@ -44,7 +44,6 @@ const Hero = () => {
         start:"1% top",
         end:"bottom top",
         scrub:true,
-        // markers:true,
     }
   });
     herotl.to(".hero-container",{

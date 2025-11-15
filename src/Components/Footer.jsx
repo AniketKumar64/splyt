@@ -51,7 +51,7 @@ const Footer = () => {
 
 
          <div className=" copyright-box ">
-                <p className="">© 2024 Chug. All Rights Reserved.</p>
+                <p className="">© {new Date().getFullYear()} ANIKET KUMAR. All Rights Reserved.</p>
                 </div>
 
         

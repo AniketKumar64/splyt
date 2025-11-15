@@ -21,8 +21,8 @@
 - Clean and modular component structure  
 
 ## Demo
-*(Add your live link here)*  
-**Live Preview:** https://your-link-here.com  
+
+**Live Preview:** https://splyt-3hfu.vercel.app/  
 
 ## Tech Stack
 - **React.js**  
@@ -41,3 +41,13 @@ cd splyt
 
 # Install dependencies
 npm install
+
+
+## Preview
+
+### Live Demo
+https://splyt-3hfu.vercel.app/
+
+### Website Preview
+![Splyt Preview](public/images/image.png)
+

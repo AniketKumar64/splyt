@@ -14,7 +14,7 @@ const BenrfitSection = () => {
                 start:"top 40%",
                 end:"top top",
                 scrub:true,
-                markers:true,
+                
             },
         });
 

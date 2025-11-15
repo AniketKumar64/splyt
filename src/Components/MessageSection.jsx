@@ -28,7 +28,7 @@ const MessageSection = () => {
         start: "top center",
         end: "30% center",
         scrub: true,
-        // markers:true,
+        
       },
     });
 
@@ -43,7 +43,7 @@ const MessageSection = () => {
         start: "top center",
         end: "bottom center",
         scrub: true,
-        // markers:true,
+        
       },
     });
 
@@ -54,7 +54,7 @@ const MessageSection = () => {
         toggleActions: "play reverse play reverse",
 
         start: "top 60% ",
-        // markers:true,
+        
       },
     });
 
@@ -70,7 +70,7 @@ const MessageSection = () => {
         toggleActions: "play reverse play reverse",
 
         start: "top center",
-        // markers:true,
+        
       },
     });
     paragraphTl.from(paragraphSplit.words, {
